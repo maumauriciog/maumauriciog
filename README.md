@@ -9,6 +9,6 @@
 ## github Stats
 <div>
   <a href="https://beacons.ai/maumauriciog">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=maumauriciog&show_icons=true&theme=gruvbox"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maumauriciog&layout=compact&langs_count=16&theme=monokai"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=maumauriciog&show_icons=true&theme=gruvbox"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maumauriciog&layout=compact&langs_count=16&theme=monokai"/>
 </div>
