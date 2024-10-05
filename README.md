@@ -2,12 +2,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maumauriciog&color=yellow" alt="Profile views" /> </p>
 
 - 📖 Estudante programação linguagem nativa kotlin
-- 🥉 Certificado SAP ERP HCM eHP6.0 and SAP S/4Hana EWM 
+- 🥉 Certificado SAP ERP HCM eHP6.0 and SAP EWM with SAP S/4HANA 2020
 
 ## My Stack
 <div>
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>  
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>  
 </div>
