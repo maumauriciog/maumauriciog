@@ -5,7 +5,7 @@
 - 🥉 Certificado SAP ERP 6.0 EhP6 and SAP EWM with SAP S/4HANA 2020;
 - 🥈 SAP SuccessFactors Platform - Record of Achievement
 - 🥈 Getting Started with SAP HCM Payroll - Record of Achievement
-- 📖 Estudante programação linguagem nativa kotlin;
+- 📖 Estudante  linguagem nativa de programação kotlin;
 - 🧑 Inglês;
 
 ## My Stack
