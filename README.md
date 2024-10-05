@@ -1,3 +1,6 @@
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, sou o Maurício Gomes</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maumauriciog&color=yellow" alt="Profile views" /> </p>
+
 ## My Stack
 <div>
   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
