@@ -1,4 +1,4 @@
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, sou o Maurício Gomes</h1>
+<h1 align="left">Olá, meu nome é Maurício Gomes</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maumauriciog&color=yellow" alt="Profile views" /> </p>
 
 - 🥉 Formado em Sistemas de Informação pela UDF
